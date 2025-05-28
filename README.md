@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a fullstack web developer experienced in PHP, React.js, Laravel, Node.js, and WordPress. I build engaging and functional web apps, from e-commerce to corporate sites. I also design UI/UX using Figma, Photoshop, and CorelDRAW, and explore creative tech with IoT.
+I'm a passionate fullstack web developer who creates user-friendly and visually appealing applications. I have experience building a wide range of digital solutions, from e-commerce platforms to corporate websites. With a strong design sense and interest in connected technologies, I aim to craft seamless, modern user experiences.
 
 
 ## 🌐 Socials:
