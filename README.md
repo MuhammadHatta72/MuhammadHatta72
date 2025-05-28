@@ -1,16 +1,15 @@
-## Hi there 👋
+👋 Hi, I'm Muhammad Hatta — a passionate Fullstack Web Developer & Designer.
 
-<!--
-**MuhammadHatta72/MuhammadHatta72** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 I specialize in building end-to-end digital solutions — from beautiful interfaces to scalable backend systems. Here's what I do best:
 
-Here are some ideas to get you started:
+🔧 **Web Development**
+- **Frontend**: Next.js, Tailwind CSS, HTML, CSS
+- **Backend**: Laravel, Node.js, Angular, PHP, Python
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ **CMS Expertise**
+- WordPress: Theme development, custom plugins, and performance optimization
+
+🎨 **Design & Prototyping**
+- Figma, CorelDRAW, Photoshop, Canva
+
+📌 I enjoy transforming ideas into real-world applications that are fast, clean, and user-friendly. Currently open for collaboration or freelance opportunities.
